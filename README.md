@@ -104,5 +104,5 @@ This project builds a predictive model for identifying fraudulent transactions u
 ## Author
 
 Chinmay Raut
-- 
-- GitHub
+- [LinkedIn](https://www.linkedin.com/in/chinmayraut276/)
+- [GitHub](https://github.com/Chinmay-27)
